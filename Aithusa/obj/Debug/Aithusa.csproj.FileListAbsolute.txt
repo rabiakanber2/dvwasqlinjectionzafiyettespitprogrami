@@ -1,0 +1,12 @@
+C:\Users\rabia\source\repos\Aithusa\Aithusa\obj\Debug\Aithusa.csproj.AssemblyReference.cache
+C:\Users\rabia\source\repos\Aithusa\Aithusa\obj\Debug\Aithusa.csproj.SuggestedBindingRedirects.cache
+C:\Users\rabia\source\repos\Aithusa\Aithusa\obj\Debug\Aithusa.Form1.resources
+C:\Users\rabia\source\repos\Aithusa\Aithusa\obj\Debug\Aithusa.Properties.Resources.resources
+C:\Users\rabia\source\repos\Aithusa\Aithusa\obj\Debug\Aithusa.csproj.GenerateResource.cache
+C:\Users\rabia\source\repos\Aithusa\Aithusa\obj\Debug\Aithusa.csproj.CoreCompileInputs.cache
+C:\Users\rabia\source\repos\Aithusa\Aithusa\bin\Debug\Aithusa.exe.config
+C:\Users\rabia\source\repos\Aithusa\Aithusa\bin\Debug\Aithusa.exe
+C:\Users\rabia\source\repos\Aithusa\Aithusa\bin\Debug\Aithusa.pdb
+C:\Users\rabia\source\repos\Aithusa\Aithusa\obj\Debug\Aithusa.exe
+C:\Users\rabia\source\repos\Aithusa\Aithusa\obj\Debug\Aithusa.pdb
+C:\Users\rabia\source\repos\Aithusa\Aithusa\obj\Debug\Aithusa.Form2.resources
